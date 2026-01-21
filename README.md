@@ -32,3 +32,4 @@ O script executa uma sequência de passos lógicos:
 4. Execute o script principal:
    ```
    python main.py
+Projeto desenvolvido durante a Jornada Python da Hashtag Treinamentos.
